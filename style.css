@@ -1,0 +1,25 @@
+.title{
+ font-family: 'Raleway',sans-serif;
+  font-size: 62px;
+  line-height: 72px;
+  text-align: center;
+}
+.parag{
+  width: 810px;
+  padding: 10px;
+  border: 5px solid rgb(15, 165, 52);
+  margin: 0;
+  position: relative;
+  right:-350px;
+}
+.titleJob{
+  position: relative;
+  right: -150px;
+}
+.des{
+    color:rgb(131, 124, 223);
+    font-weight: bold;
+}
+li{
+  list-style: none;
+}
